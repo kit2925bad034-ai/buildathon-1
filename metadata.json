@@ -1,0 +1,8 @@
+{
+  "name": "Autonomous Cybersecurity Platform",
+  "description": "AI-powered autonomous cybersecurity platform for real-time anomaly detection, attack sequence reconstruction, automated threat response, AI investigation assistant, and continuous intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
